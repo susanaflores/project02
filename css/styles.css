@@ -40,3 +40,5 @@ body, html {
 }
 
 nav ul { margin: 0;}
+
+footer ul { list-style-type: none;}
