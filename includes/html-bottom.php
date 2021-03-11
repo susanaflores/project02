@@ -13,7 +13,7 @@ function openMenu(evt, menuName) {
   document.getElementById(menuName).style.display = "block";
   evt.currentTarget.firstElementChild.className += " w3-dark-grey";
 }
-document.getElementByClassName("myLink").click();
+document.getElementsByClassName("myLink").click();
 </script>
 
 <script src="http://code.jquery.com/jquery.js"></script>
