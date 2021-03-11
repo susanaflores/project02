@@ -47,7 +47,10 @@ nav ul {
 
 footer ul { list-style-type: none;}
 
-.navigation a.is-currrent { background-color: blue;}
+.navigation a.is-currrent {
+  text-decoration: underline;
+  background-color: #404040;
+}
 
 h1 {
   padding-top: 100px;
