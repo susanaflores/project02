@@ -1,34 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <title>DMS 290 - Project 01 - Team San Francisco</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
-  <link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "includes/html-top.php"; ?>
 
 <body>
 
-<!-- Links (sit on top) -->
-<nav class="w3-top">
-  <ul class="w3-row w3-padding w3-black">
-    <li class="w3-col s3">
-      <a href="san_francisco.html" class="w3-button w3-block w3-black">SAN FRANCISCO</a>
-    </li>
-    <li class="w3-col s3">
-      <a href="giza.html" class="w3-button w3-block w3-black">GIZA</a>
-    </li>
-    <li class="w3-col s3">
-      <a href="fuzhou.html" class="w3-button w3-block w3-black">FUZHOU</a>
-    </li>
-    <li class="w3-col s3">
-      <a href="yangzhou.html" class="w3-button w3-block w3-black">YANGZHOU</a>
-    </li>
-  </ul>
-</nav>
+<?php include "includes/nav.php"; ?>
 
 <!-- Header with image -->
 <header class="bgimg-giza w3-display-container w3-grayscale-min" id="home">
@@ -204,23 +178,7 @@
   </div>
 </footer>
 
-<script>
-// Tabbed Menu
-function openMenu(evt, menuName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("menu");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < x.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" w3-dark-grey", "");
-  }
-  document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " w3-dark-grey";
-}
-document.getElementByClassName("myLink").click();
-</script>
+<?php include "includes/html-bottom.php"; ?>
 
 </body>
 </html>
