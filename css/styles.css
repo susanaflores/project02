@@ -38,3 +38,5 @@ body, html {
 .p {
   text-indent: 2em;
 }
+
+nav ul { margin: 0;}
