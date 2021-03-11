@@ -13,5 +13,5 @@ function openMenu(evt, menuName) {
   document.getElementById(menuName).style.display = "block";
   evt.currentTarget.firstElementChild.className += " w3-dark-grey";
 }
-document.getElementById("myLink").click();
+document.getElementByClassName("myLink").click();
 </script>

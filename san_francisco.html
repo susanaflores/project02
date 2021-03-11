@@ -84,7 +84,7 @@
 
      <br></br><br></br>
     <div class="w3-row w3-center w3-card w3-padding">
-      <a href="javascript:void(0)" onclick="openMenu(event, 'Climate');" id="myLink">
+      <a href="javascript:void(0)" onclick="openMenu(event, 'Climate');" class="myLink">
         <div class="w3-col s6 tablink">Climate</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'Trans');">
@@ -132,7 +132,7 @@
     <h2 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">CULTURE</span></h2>
 
     <div class="w3-row w3-center w3-card w3-padding">
-      <a href="javascript:void(0)" onclick="openMenu(event, 'History');" id="myLink">
+      <a href="javascript:void(0)" onclick="openMenu(event, 'History');" class="myLink">
         <div class="w3-col s6 tablink">History</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'Attraction');">
@@ -207,6 +207,7 @@
   </div>
 <!-- End page content -->
 </div>
+</div>
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
@@ -241,7 +242,7 @@ function openMenu(evt, menuName) {
   document.getElementById(menuName).style.display = "block";
   evt.currentTarget.firstElementChild.className += " w3-dark-grey";
 }
-document.getElementById("myLink").click();
+document.getElementByClassName("myLink").click();
 </script>
 
 </body>
