@@ -1,0 +1,40 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg-sanfrancisco {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../assets/san_francisco_skyline.jpg");
+  min-height: 75%;
+}
+
+.bgimg-giza {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../assets/giza_city.jpg");
+  min-height: 75%;
+}
+
+.bgimg-fuzhou {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../assets/fuzhou_skyline.jpg");
+  min-height: 75%;
+}
+
+.bgimg-yangzhou {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../assets/yangzhou_skyline.jpeg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+
+.p {
+  text-indent: 2em;
+}
