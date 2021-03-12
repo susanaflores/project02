@@ -47,9 +47,9 @@ nav ul {
 
 footer ul { list-style-type: none;}
 
-.navigation a.is-currrent {
-  text-decoration: underline;
-  background-color: #404040;
+.navigation a.is-current {
+  border-bottom: 1px solid white;
+  font-weight: bold;
 }
 
 h1 {
