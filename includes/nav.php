@@ -1,4 +1,3 @@
-<!-- Links (sit on top) -->
 <nav class="navigation w3-top">
   <ul class="w3-row w3-padding w3-black">
     <li class="w3-col s3"><a href="san_francisco.php" class="w3-button w3-block w3-black">San Francisco</a></li>
