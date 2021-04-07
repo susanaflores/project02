@@ -47,7 +47,7 @@ h1 {
 	margin:10px;
 }
 .bottom-left p{
-	font-size:40px;
+	font-size:55px;
 	line-height:10px;
 	font-family: 'Francois One', sans-serif;
 	color: #d45c17;
@@ -62,22 +62,28 @@ h1 {
 	text-align: center;
 	margin:10px;
 	font-family: 'Francois One', sans-serif;
-	-webkit-text-stroke-width: 2px;
- 	-webkit-text-stroke-color: #94c9f7;	
+	padding-top: 20px;
 }
 
 .bottom-right a{
-	font-size:72px;
 	position:relative;
 	text-decoration: none;
-	color:#3276d1;
+	color:white;
 	font-size:65px;
 	font-family: 'Francois One', sans-serif;
+	-webkit-text-stroke-width: 1px;
+ 	-webkit-text-stroke-color: #e4ebf0;
+ 	border: 5px solid #5b91b0;
+	border-radius: 100px;
+	padding: 25px;	
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: #89b3cc;
 
 }
 
 .bottom-right a:hover{
-	color:#94c9f7;
+	color:#d8e4ed;
 }
 
 footer{
