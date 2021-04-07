@@ -8,12 +8,16 @@
 }
 
 .para{
-	margin:15px;
+	margin:25px;
+	padding-right: 15px;
+	padding-left: 20px;
+	margin-top: 10px;
 }
 
 h2 {
 	font-family: 'Mukta Malar', sans-serif;
 	color: #578f5f;
+	font-size: 24pt;
 }
 
 
@@ -45,12 +49,14 @@ h2 {
 .more a{
 	border:solid;
 	border-radius: 100px;
-	border-color:black;
+	border-color:#86b6d1;
+	background-color: #6e9eba;
 	padding:10px;
 	text-decoration: none;
-	color:black;
+	color:white;
 }
 
 .more a:hover{
-	background-color: #e6f7ff;
+	background-color: #e89741;
+	border-color: #edbb85;
 }
