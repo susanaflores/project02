@@ -39,21 +39,24 @@
 	margin:10px;
 }
 .bottom-left p{
-	font-size:35px;
+	font-size:45px;
 	line-height:10px;
+	font-family: 'Paytone One', sans-serif;
 }
 .bottom-right{
 	grid-column:4;
 	justify-content: center;
 	text-align: center;
 	margin:10px;
+	font-family: 'Paytone One', sans-serif;
 }
 
 .bottom-right a{
-	font-size:50px;
+	font-size:72px;
 	position:relative;
 	text-decoration: none;
-	color:black;
+	color:#2564b8;
+
 }
 
 .bottom-right a:hover{
