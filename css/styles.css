@@ -49,12 +49,14 @@ h2 {
 .more a{
 	border:solid;
 	border-radius: 100px;
-	border-color:#6e9eba;
+	border-color:#86b6d1;
+	background-color: #6e9eba;
 	padding:10px;
 	text-decoration: none;
-	color:#5b91b0;
+	color:white;
 }
 
 .more a:hover{
-	background-color: #e6f7ff;
+	background-color: #e89741;
+	border-color: #edbb85;
 }
