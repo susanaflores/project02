@@ -15,28 +15,28 @@
 		<div class="cities">
 			<a href="san_francisco.php">
 				<h1> San Francisco </h1>
-				<img src="assets/sanfrancisco.jpg">
+				<img src="assets/sanfrancisco.jpg" alt="sanfrancisco">
 			</a>
 		</div>
 
 		<div class="cities">
 			<a href="giza.php">
 				<h1> Giza </h1>
-				<img src="assets/giza_city.jpg">
+				<img src="assets/giza_city.jpg" alt="giza">
 			</a>
 		</div>
 
 		<div class="cities">
 			<a href="fuzhou.php">
 				<h1> Fuzhou </h1>
-				<img src="assets/fuzhou_skyline.jpg">
+				<img src="assets/fuzhou_skyline.jpg" alt="fuzhou">
 			</a>
 		</div>
 
 		<div class="cities">
 			<a href="yangzhou.php">
 				<h1> Yangzhou </h1>
-				<img src="assets/yangzhou_skyline.jpeg">
+				<img src="assets/yangzhou_skyline.jpeg" alt="yangzhou">
 			</a>
 		</div>
 	</div>
