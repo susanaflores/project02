@@ -42,6 +42,10 @@
 	font-size:45px;
 	line-height:10px;
 	font-family: 'Paytone One', sans-serif;
+	color: #eb6f36;
+	letter-spacing: 1.2pt;
+	-webkit-text-stroke-width: 2px;
+ 	-webkit-text-stroke-color: #f7bf79;
 }
 .bottom-right{
 	grid-column:4;
@@ -49,18 +53,20 @@
 	text-align: center;
 	margin:10px;
 	font-family: 'Paytone One', sans-serif;
+	-webkit-text-stroke-width: 2px;
+ 	-webkit-text-stroke-color: #94c9f7;	
 }
 
 .bottom-right a{
 	font-size:72px;
 	position:relative;
 	text-decoration: none;
-	color:#2564b8;
+	color:#3276d1;
 
 }
 
 .bottom-right a:hover{
-	color:#006699;
+	color:#94c9f7;
 }
 
 footer{
