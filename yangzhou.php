@@ -120,6 +120,10 @@
       Yangzhou fried rice is a perhaps the most well-known dish of the city of Yangzhou, Jiangsu province. The recipe was invented by Qing China's Yi Bingshou (1754–1815) and the dish was named Yangzhou fried rice since Yi was once the regional magistrate of Yangzhou. The difference between Yang Chow Fried Rice and ordinary fried rice is that Yang Chow Style invariably includes a combination of proteins. Rather than using a single protein like shrimp or pork or chicken as the dominant ingredient in fried rice, Yang Chow uses a variety. Most commonly used is a combination of pork, shrimp and frequently chicken or duck. The rest of the ingredients vary as well, but what makes Yang Chow fried rice Yang Chow Style, is the mixture.
     </p>
   </div>
+    <div class="more">
+        <!---Link to original city website: Yangzhou--->
+    <a href="http://hli66.digitalscholar.rochester.edu/assignment01/index.html">Learn more about Yangzhou</a>
+  </div>
 </div>
    
 <footer>
