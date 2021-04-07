@@ -4,10 +4,16 @@
 	margin:10px;
 	padding:10px; 
 	border-bottom: solid;
+	font-family:'Mukta Malar', sans-serif;
 }
 
 .para{
 	margin:15px;
+}
+
+h2 {
+	font-family: 'Mukta Malar', sans-serif;
+	color: #578f5f;
 }
 
 
