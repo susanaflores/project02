@@ -129,9 +129,9 @@
 </div>
 
 <!-- Footer -->
-<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+<footer>
 
-  <h2>Sources & Further Reading</h2>
+  <h2>Sources</h2>
   <ul class="flowing-boxes">
     <li><a href="http://bmart13.digitalscholar.rochester.edu/assignment03/index.html" target="_blank">DMS 290 - Assignment 03 - Group San Francisco</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Fuzhou" target="_blank">Wikipedia Fuzhou</a></li>

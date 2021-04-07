@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav>
     <ul>
       <li><a href="san_francisco.php">San Francisco</a></li>
       <li><a href="giza.php">Giza</a></li>
