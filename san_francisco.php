@@ -2,7 +2,7 @@
 
 <body>
   <header>
-    <div>
+    <div class="logo">
       <a href="index.html">
         <img src="assets/logo.jpg" alt="logo">
       </a>
@@ -28,14 +28,14 @@
         San Francisco is part of the 12th-largest metropolitan statistical area in the United States by population, with 4.7 million people, and the fourth-largest by economic output, with GDP of $592 billion in 2019. With San Jose, it forms the fifth most populous combined statistical area in the United States, with 9.67 million residents as of 2019. Colloquial nicknames for San Francisco include The City, SF, Frisco and San Fran.
       </p>
     </div>
-    <div>
+    <div class="more">
       <a href="http://jaddy.digitalscholar.rochester.edu/dms290/assignment1/index.html">Learn more about San Francisco</a>
     </div>
   </div>
 
   <div class="info">
     <div>
-      <img src="assets/san_francisco_geo.jpg" alt="San Francisco Geography">
+      <img src="assets/san_francisco_geo.jpeg" alt="San Francisco Geography">
     </div>
     <div class="para">
       <h2>Geography & Demographics</h2>
@@ -47,7 +47,7 @@
         With a 2020 population of 883,255, it is the 4th largest city in California and the 17th largest city in the United States. San Francisco is currently growing at a rate of 0.10% annually and its population has increased by 9.69% since the most recent census, which recorded a population of 805,235 in 2010. San Francisco reached it's highest population of 883,255 in 2021. Spanning over 232 miles, San Francisco has a population density of 18,832 people per square mile.
       </p>
     </div>
-    <div>
+    <div class="more">
       <a href="http://jaddy.digitalscholar.rochester.edu/dms290/assignment1/index.html">Learn more about San Francisco</a>
     </div>
   </div>
@@ -65,6 +65,9 @@
         <p>
           Among major U.S. cities, San Francisco has the coolest daily mean, maximum, and minimum temperatures for June, July, and August. During the summer, rising hot air in California's interior valleys creates a low pressure area that draws winds from the North Pacific High through the Golden Gate, which creates the city's characteristic cool winds and fog. The fog is less pronounced in eastern neighborhoods and during the late summer and early fall. As a result, the year's warmest month, on average, is September, and on average, October is warmer than July, especially in daytime.
         </p>
+    </div>
+    <div class="more">
+      <a href="http://jaddy.digitalscholar.rochester.edu/dms290/assignment1/index.html">Learn more about San Francisco</a>
     </div>
   </div>
 
@@ -100,6 +103,9 @@
           There are plenty of great spots to capture a snap of the majestic bridge. But if you want a truly postcard-worthy shot, head to the Golden Gate Bridge Vista Point, situated high on a hill overlooking San Francisco. If you have extra time, make sure to explore the Golden Gate National Recreation Area. The actual span of the Golden Gate National Recreation Area encompasses multiple places in San Mateo (south of San Francisco), San Francisco and Marin Counties (Alcatraz and Muir Woods included), but notable parts of this recreation area can be found just a stroll away from the Golden Gate. From the bridge, travelers will find some scenic, bayside trails, some of which lead to secluded beaches, including Kirby Cove and Black Sands Beach. If you really want a trek, journey to the Point Bonita Lighthouse for sweeping views of the bay, found at the very tip of the Golden Gate Strait.
         </p>
     </div>
+    <div class="more">
+      <a href="http://jaddy.digitalscholar.rochester.edu/dms290/assignment1/index.html">Learn more about San Francisco</a>
+    </div>
   </div>
         
   <div class="info">
@@ -108,8 +114,6 @@
     </div>
     <div class="para">
       <h2>Cuisine</h2>
-      <h3>Mission-Style Burritos</h3>
-
       <p>
         The Mission-style burrito — or San Francisco burrito — was created in the 1960s in The City’s Mission District. There are two theories as to when and where the first one was served: September 26, 1961 at El Faro, or at September 29, 1969 at Taqueria La Cumbre. Regardless of who was its originator, the Mission-style burrito has become an indispensable native food for San Franciscans.
       </p>

@@ -1,0 +1,66 @@
+.background-viewport{
+	justify-content: center;
+	height:65vh;
+}
+.city-div{
+	display:flex;
+	justify-content: center;
+	margin-bottom: 50px;
+
+}
+.cities img{
+	border-radius: 50%;
+}
+
+.cities {
+	text-align: center;
+	margin:10px;
+}
+
+.cities:hover img{
+	box-shadow: 0 0 10px rgba(0, 51, 77);
+}
+
+.cities a{
+	color:black;
+	text-decoration: none;
+}
+
+
+.bottom_div{
+	display:grid;
+	grid-template-columns: auto auto auto auto;
+}
+
+.bottom-left{
+	grid-column: 1/2;
+	text-align: center;
+	margin:10px;
+}
+.bottom-left p{
+	font-size:35px;
+	line-height:10px;
+}
+.bottom-right{
+	grid-column:4;
+	justify-content: center;
+	text-align: center;
+	margin:10px;
+}
+
+.bottom-right a{
+	font-size:50px;
+	position:relative;
+	text-decoration: none;
+	color:black;
+}
+
+.bottom-right a:hover{
+	color:#006699;
+}
+
+footer{
+	text-align: center;
+	margin-top: 20px;
+
+}
