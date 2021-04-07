@@ -27,6 +27,7 @@ h2 {
 	justify-content: space-around;
 	flex-wrap:wrap;
 	padding-left:0;
+	text-decoration: none;
 
 }
 
@@ -34,10 +35,15 @@ h2 {
 	flex-basis: 200px;
 	list-style-type: none;
 	border-left-style: solid;
+	border-right-style: solid;
+	text-decoration: none;
 	border-color:#004466;
 	padding:10px;
-	background-color:#e6f7ff;
+	background-color:#ebeced;
+	color: black;
+	text-align: center;
 	margin:5px;
+	font-family: 'Mukta Malar', sans-serif;
 
 }
 
