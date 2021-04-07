@@ -12,11 +12,10 @@
 </header>
 
 <div class="info">
-  <div class="para">
     <div>
       <img src="assets/fuzhou_skyline.jpg" alt="Fuzhou - Skyline">
     </div>
-
+    <div class="para">
     <h2>Introduction</h2>
     <p>
       Fuzhou, the capital of southeast province of Fujian, also referred to as Rongcheng (city of Banyang trees), is an important southeast coastal city faces East China Sea as well as a nearest capital city of the country faces the island of Taiwan. Located in the downstream of Min River, Fuzhou is adjacent to Ningde City, Nanping City, Sanming City and Putian City.
