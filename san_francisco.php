@@ -122,6 +122,9 @@
         What sets it apart from the original meat, rice, and beans variety, is that this monster gets super-sized with the addition of extra rice, vegetables, sour cream, and cheese (in a super burrito), and wrapped in a steamed tortilla to keep all the goodness in. Besides El Faro and La Cumbre, another popular burrito institution one should visit to get the traditional Mission style burrito experience is La Taqueria.
       </p>
     </div>
+    <div class="more">
+      <a href="http://jaddy.digitalscholar.rochester.edu/dms290/assignment1/index.html">Learn more about San Francisco</a>
+    </div>
   </div>
   
   <footer>
