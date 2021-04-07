@@ -4,7 +4,7 @@
 
 <header>
     <div>
-      <a href="index.html">
+      <a href="index.php">
         <img src="assets/logo.jpg" alt="logo">
       </a>
     </div>
@@ -12,7 +12,9 @@
   </header>
 
 <div class="info">
-  <div></div>
+  <div>
+    <img src="assets/yangzhou_skyline.jpeg" alt="Yangzhou - Skyline">
+  </div>
   <div class="para">
     <h2>Introduction</h2>
     <p>
@@ -94,7 +96,6 @@
   </div>
   <div class="para">
     <h2>Attractions</h2>
-    <h4>Daming Temple</h4>
     <p>
       Located on Shugang Hill, in the city's northwest, is Fajing Temple, formerly known as DaMing Temple. The original temple was built in Liu Song Dynasty (420–479). A nine-story pagoda, the Qilingta, was built on the temple grounds in the year of Sui Dynasty (589–618) . A recent addition to the temple complex is the Jianzhen Memorial Hall, built according to Tang Dynasty methods and financed with contributions raised by Buddhist groups in Japan. When Qing Emperor Qian Long visited Yangzhou in 1765, he was troubled by The temple's name DaMing (which literally means "Great Ming') fearing that it might revive nostalgia for the Ming Dynasty, which was overthrown by his Manchu predecessors. He had it renamed Fajing Temple. The temple was seriously damaged during the Taiping Rebellion at the beginning of the 20th century. The present structure is a reconstruction dating from the 1930s.
     </p>
@@ -115,7 +116,6 @@
   </div>
   <div class="para">
     <h2>Cuisine</h2>
-    <h3>Yangzhou Fried Rice</h3>
     <p>
       Yangzhou fried rice is a perhaps the most well-known dish of the city of Yangzhou, Jiangsu province. The recipe was invented by Qing China's Yi Bingshou (1754–1815) and the dish was named Yangzhou fried rice since Yi was once the regional magistrate of Yangzhou. The difference between Yang Chow Fried Rice and ordinary fried rice is that Yang Chow Style invariably includes a combination of proteins. Rather than using a single protein like shrimp or pork or chicken as the dominant ingredient in fried rice, Yang Chow uses a variety. Most commonly used is a combination of pork, shrimp and frequently chicken or duck. The rest of the ingredients vary as well, but what makes Yang Chow fried rice Yang Chow Style, is the mixture.
     </p>

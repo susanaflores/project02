@@ -4,7 +4,7 @@
 
 <header>
   <div class="logo">
-    <a href="index.html">
+    <a href="index.php">
       <img src="assets/logo.jpg" alt="logo">
     </a>
   </div>
@@ -13,6 +13,10 @@
 
 <div class="info">
   <div class="para">
+    <div>
+      <img src="assets/fuzhou_skyline.jpg" alt="Fuzhou - Skyline">
+    </div>
+
     <h2>Introduction</h2>
     <p>
       Fuzhou, the capital of southeast province of Fujian, also referred to as Rongcheng (city of Banyang trees), is an important southeast coastal city faces East China Sea as well as a nearest capital city of the country faces the island of Taiwan. Located in the downstream of Min River, Fuzhou is adjacent to Ningde City, Nanping City, Sanming City and Putian City.
@@ -26,6 +30,10 @@
       It is both a historic and a cultural city with over two-thousand-year of history. Such historical sites as Sanfang Qixiang, Fujian Tulou and Mount Wuyi combining natural scenery and tea culture are waiting for you to explore.
     </p>
   </div>
+  <div class="more">
+      <!---Link to original city website: Fuzhou--->
+      <a href="http://qlin13.digitalscholar.rochester.edu/assignment01/">Learn more about Fuzhou</a>
+    </div>
 </div>
 
 <div class="info">
@@ -33,7 +41,7 @@
     <img src="assets/fuzhou_map.jpg" alt="Fuzhou - Geography">
   </div>
   <div class="para">
-    <h2 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">Geography & Demographics</span></h2>
+    <h2>Geography & Demographics</h2>
 
     <p>
       Fuzhou is located in the eastern coastal of Fujian province, Min River downstream. It lies northern latitude 25 ° 15 '- 26 ° 39', east longitude 118 ° 08 '- 120 ° 31'. East faces the East China Sea and Taiwan province across the sea. The Fuzhou city belongs to the typical river basin, which is surrounded by mountains. Its height above sea level is about 600 ~ 1000 meters. Domestic terrain leans from the west to the east. It covers 12,000 square kilometers, in which, 1,043 square kilometers are planned area. The city's constructed area reaches 182.86 square kilometers.
@@ -92,7 +100,6 @@
   </div>
   <div class="para">
     <h2>Attractions</h2>
-    <h4>Sanfang Qixiang</h4>
     <p>
         Sanfang Qixiang is the only remaining old quarter of Fuzhou. Preserving over 200 ancient folk houses mainly from the Ming and Qing dynasties, it is reputed as the “Architecture Museum of the Ming and Qing Dynasties”. Since its construction in the Jin Dynasty, a great many of scholars have lived here. Therefore, Sanfang Qixiang is also known as the origin of history and culture of Fuzhou.
       </p>
@@ -113,7 +120,6 @@
   </div>
   <div class="para">
     <h2>Cuisine</h2>
-    <h3>Fo Tiao Qiang</h3>
     <p>
       One of the most renowned Fuzhou dishes is Fotiaoqiang (Buddha Jumps Over the wall). It is said to have been created by the wife of a Fuzhou official, who in 1876 was entertaining an important member of the Fujian Government in his home. His wife, who was an excellent cook placed chicken, duck, pork and seafood together into an empty wine jar to simmer following a recipe which was known at the time as 'Full of Blessing and Longevity'. When the dish was served, the visitor praised the aroma and the delicious flavor and was so impressed that when he returned home he asked the cook – Zheng Chunfa to learn how the wife of his host had prepared the food.
     </p>
